@@ -69,3 +69,12 @@ que se ha almacenado en el contexto, es decir, una página en donde se puedan ap
 La prueba será revisada en su repositorio de GitHub y tendrá plazo de cargarla hasta el día martes 5 de abril. Envíe
 un correo notificando la finalización de la prueba a [luis.forero@xpertgroup.co](mailto:luis.forero@xpertgroup.co).
 Cualquier duda puede enviar un mensaje al mismo correo.
+
+## Tareas sugeridas
+- En el hook useGetDynamicInputs consulte la información de la api.
+- Implemente el hook useGetDynamicInputs en el contexto global. Haga que la información obtenida esté disponible en el contexto global.
+- Del contexto global extraiga la información que necesita el componente Select, es decir, las opciones.
+- Implemente un mecanismo que le permita saber al componente DynamicInputs que campos deben mostrar dependiendo del cargo seleccionado.
+- En el componente DynamicInputs, obtenga la lista de inputs que se deben renderizar.
+- En el componente Input implemente un evento custom que le permita cargar en el contexto el valor del campo.
+- En el componente Form implemente un evento custom que muestre por conosola la información que el usuario ha ingresado. Esta debe estar almaceada en el contexto global.
