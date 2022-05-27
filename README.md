@@ -66,6 +66,6 @@ Una vez finalizada la prueba técnica esperamos obtener los siguientes resultado
 Si desea y dispone de tiempo suficiente puede crear una segunda vista en la que muestre el resumen de la información
 que se ha almacenado en el contexto, es decir, una página en donde se puedan apreciar las respuestas del usuario.
 
-La prueba será revisada en su repositorio de GitHub y tendrá plazo de cargarla hasta el día martes 5 de abril. Envíe
-un correo notificando la finalización de la prueba a [luis.forero@xpertgroup.co](mailto:luis.forero@xpertgroup.co).
-Cualquier duda puede enviar un mensaje al mismo correo.
+La prueba será revisada en su repositorio de GitHub. Tenga en cuenta el plazo máximo de entrega, el cuál estará descrito
+en el mail en el cual recibió esta prueba. Envíe un correo notificando la finalización de la prueba a 
+[luis.forero@xpertgroup.co](mailto:luis.forero@xpertgroup.co). Cualquier duda puede enviar un mensaje al mismo correo.
